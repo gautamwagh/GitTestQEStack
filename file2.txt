@@ -1,3 +1,5 @@
 modified file2 ***
 
 change added at remote to test conflict while push command
+
+change at local master to test conflict while push operation
